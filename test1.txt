@@ -1,0 +1,7 @@
+Write something inside this file
+1 test
+2 homework
+3 gitit
+4 getall
+5 get
+4 getall
